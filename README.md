@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris Ramirez</h1>
 <h3 align="center">An aspiring Data Analyst from Charlotte, NC</h3>
+<h3 align="center"> 💡**Skills**💡:</h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -11,7 +12,6 @@
   <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
   </p>
 <hr>
- <p>&nbsp;</p>
 <img align="right" alt="data, data everywhere" width="400" height="50%" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/giphy-2.gif">
 <h3 align="center">✨ About me in 30 secs ✨</h3>
 <h4 align="left">- 👀 I’m passonate about Data Analysis and I love learning new skills</h4>
@@ -22,7 +22,6 @@
 <h4 align="left">- 🌱 I’m currently studying for the **Microsoft Office Specialist certification**</h4>
 <h4 align="left">- :open_file_folder: All of my projects are available at [https://www.linkedin.com/in/chris-ramirezuncc/]</h4>
 <h4 align="left">- 📄 Know about my work experiences [https://www.linkedin.com/in/chris-ramirezuncc/])</h4>
-<br>
 <p>&nbsp;</p>
  <hr>
 <h3 align="center">Connect with me:</h3>
