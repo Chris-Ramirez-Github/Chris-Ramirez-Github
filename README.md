@@ -23,6 +23,7 @@
 <h4 align="left">- :open_file_folder: All of my projects are available at [https://www.linkedin.com/in/chris-ramirezuncc/]</h4>
 <h4 align="left">- 📄 Know about my work experiences [https://www.linkedin.com/in/chris-ramirezuncc/])</h4>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
  <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
