@@ -20,7 +20,7 @@
 <h4 align="left">- :pick: Graduated in May 2020 with a Bachelor of Science with a Major in Computer Science from UNCC</h4>
 <h4 align="left">- :apple: I completed the Business Data Analytics Certificate from Central Piedmont Community College</h4>
 <h4 align="left">- 🌱 I’m currently studying for the **Microsoft Office Specialist certification**</h4>
-<h4 align="left">- :open_file_folder: All of my projects are available at [https://www.linkedin.com/in/chris-ramirezuncc/]</h4>
+<h4 align="left">- :open_file_folder: All of my projects are available at [https://chris-ramirez-github.github.io/ChrisRamirez.github.io/]</h4>
 <h4 align="left">- 📄 Know about my work experiences [https://www.linkedin.com/in/chris-ramirezuncc/])</h4>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
