@@ -5,7 +5,6 @@
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href=""> <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="excel" width="40" height="40"/> </a> 
   <a href=""><img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="tableau" width="40" height="40"/></a> 
   <a href=""> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" alt="power bi" width="40" height="40"/> </a> 
