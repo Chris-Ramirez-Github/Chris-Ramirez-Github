@@ -1,35 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chris Ramirez</h1>
 <h3 align="center">An aspiring Data Analyst from Charlotte, NC</h3>
 
-### Talk with me, I would like to meet you:
-[View LinkedIn Profile](https://www.linkedin.com/in/chris-ramirezuncc/)
-
-<br />
-
-### Languages and Data Analytics Tools:
-- [x] SQL
-- [x] Python
-- [x] Microsoft Excel
-
-<br />
-
-### Data Visualization Tools:
-- [x] Microsoft Excel
-- [x] Tableau
-- [x] Power BI
-
-<br />
-//<h3 align="center"> 💡**Skills**💡:</h3>
-//<p align="center"> 
-  //<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  //<a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  //<a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- //<a href=""> <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="excel" width="40" height="40"/> </a> 
- // <a href=""><img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="tableau" width="40" height="40"/></a> 
-  //<a href=""> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" alt="power bi" width="40" height="40"/> </a> 
-  //<a href=""> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  //<a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  //</p>
+<h3 align="center"> 💡**Skills**💡:</h3>
+<p align="center"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href=""> <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="excel" width="40" height="40"/> </a> 
+  <a href=""><img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="tableau" width="40" height="40"/></a> 
+  <a href=""> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" alt="power bi" width="40" height="40"/> </a> 
+  <a href=""> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+ </p>
 <hr>
 <img align="right" alt="data, data everywhere" width="400" height="50%" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/giphy-2.gif">
 <h3 align="center">✨ About me in 30 secs ✨</h3>
@@ -40,7 +22,7 @@
 <h4 align="left">- :apple: I completed the Business Data Analytics Certificate from Central Piedmont Community College</h4>
 <h4 align="left">- 🌱 I’m currently studying for the **Microsoft Office Specialist certification**</h4>
 <h4 align="left">- :open_file_folder: All of my projects are available at [https://chris-ramirez-github.github.io/ChrisRamirez.github.io/]</h4>
-<h4 align="left">- 📄 Know about my work experiences [https://www.linkedin.com/in/chris-ramirezuncc/])</h4>
+<h4 align="left">- 📄 Talk with me, I would like to meet you: [https://www.linkedin.com/in/chris-ramirezuncc/])</h4>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
  <hr>
